@@ -1,8 +1,8 @@
-module github.com/nssteinbrenner/anitogo
+module github.com/xifo-wu/anitogo
 
-go 1.21.5
+go 1.23.3
 
 require (
-	github.com/google/uuid v1.5.0
-	golang.org/x/text v0.14.0
+	github.com/google/uuid v1.6.0
+	golang.org/x/text v0.21.0
 )
